@@ -1,11 +1,11 @@
 ---
 title: "education"
-bg: oranage
+bg: orange
 color: black
 fa-icon: plug
 ---
 
-# Degrees
+## Degrees
 
 01/2017	Doctoral degree: Dr. rer. pol.
 University of Kaiserslautern (TUK); Dissertation title: How entrepreneurs develop and influence their employees; supervisor: Prof. Dr. Matthias Baum
@@ -16,7 +16,7 @@ Ludwig-Maximilians-University (LMU), Munich
 06/2009	General qualification for university entrance (Abitur)
 Gymnasium Weilheim
 
-# Academic Affiliations
+## Academic Affiliations
 
 02/2017 – 06/2019	Postdoctoral Research Fellow – Department of Management & Organisation, National University of Singapore (NUS)
 Researcher in the EPICS project (Enhancing productivity and innovation across countries for Singapore) of Prof. Dr. Michael Frese

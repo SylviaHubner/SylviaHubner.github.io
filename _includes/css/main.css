@@ -58,6 +58,19 @@ img {
   vertical-align:middle;
 }
 
+.img-me {
+  z-index: 100;
+  left: 0;
+  width: 200px;
+  height: 200px;
+  margin-left: 0;
+  border: 2px solid #f1f1f1;
+  border-radius: 100%;
+  text-align: center;
+  color: #fff;
+  background-color: #f1f1f1;
+}
+
 hr {
   margin:60px auto;
   width:50%;
