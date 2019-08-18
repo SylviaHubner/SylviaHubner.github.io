@@ -67,8 +67,41 @@ img {
   border: 2px solid #f1f1f1;
   border-radius: 100%;
   text-align: center;
-  color: #fff;
-  background-color: #f1f1f1;
+}
+
+.logos {
+  z-index: 100;
+  left: 0;
+  width: 100px;
+  margin-left: 0;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  border-radius: 0%;
+  text-align: center;
+  float: left;
+}
+
+.pubs {
+  z-index: 100;
+  left: 0;
+  width: 80px;
+  margin-left: 0;
+  margin-right: 10px;
+  border-radius: 0%;
+  text-align: center;
+  float: left;
+}
+
+.conferences {
+  z-index: 100;
+  left: 0;
+  width: 60px;
+  margin-left: 0;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  border-radius: 0%;
+  text-align: center;
+  float: left;
 }
 
 hr {
@@ -234,7 +267,7 @@ nav ul li:hover, nav ul li.active {
   position: static;
   margin-top: -8px;
 }
-.sectiondivider .fa-circle { color: #fff; }
+.sectiondivider .fa-circle { color: #f8f8f8; }
 
 .sectiondivider h5 {
   font-size:15px;
