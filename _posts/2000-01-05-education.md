@@ -1,4 +1,4 @@
----
+﻿---
 title: "education"
 bg: orange
 color: black
@@ -16,7 +16,7 @@ University of Kaiserslautern (TUK); Dissertation title: How entrepreneurs develo
 
 ## Academic Affiliations
 
-<img alt="NUS" src="./img/NUS Logo.png" class="logos"> 02/2017 – 06/2019	Postdoctoral Research Fellow – Department of Management & Organisation, National University of Singapore (NUS)
+<img alt="NUS" src="./img/NUS Logo.png" class="logos"> since 07/2019	Postdoctoral Research Fellow – Department of Management & Organisation, National University of Singapore (NUS)
 Researcher in the EPICS project (Enhancing productivity and innovation across countries for Singapore) of Prof. Dr. Michael Frese
 
 <img alt="TUM" src="./img/TUM.svg" class="logos"> 02/2017 – 06/2019	Post-doc and project leader - Chair of Research and Science Management, Technical University of Munich (TUM)
