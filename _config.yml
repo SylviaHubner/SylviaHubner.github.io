@@ -15,12 +15,12 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Dr. Sylvia Hubner"
-keywords:    "Sylvia Hubner, Sylvia, Hubner, Entrepreneurship, Leadership, HRM, Diversity, TUM, NUS, Research"
+keywords:    "Sylvia Hubner, Sylvia, Hubner, Entrepreneurship, Entrepreneurial, Innovation, Leadership, HRM, Diversity, Gender, TUM, NUS, Research, Passion, Effectuation"
 description: "About Dr. Sylvia Hubner, Postdoctoral Research Fellow, National University of Singapore"
 source_link: "https://github.com/t413/SinglePaged"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-165409462-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 ### social usernames ###
 linkedin_link: http://www.linkedin.com/in/sylviahubner
