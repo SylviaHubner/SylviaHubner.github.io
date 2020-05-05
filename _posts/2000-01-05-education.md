@@ -16,6 +16,8 @@ University of Kaiserslautern (TUK); Dissertation title: How entrepreneurs develo
 
 ## Academic Affiliations
 
+<img alt="unibz" src="./img/unibz.png" class="logos"> starting 09/2020	Assistant Professor of Management – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz)
+
 <img alt="NUS" src="./img/NUS Logo.png" class="logos"> since 07/2019	Postdoctoral Research Fellow – Department of Management & Organisation, National University of Singapore (NUS)
 Researcher in the EPICS project (Enhancing productivity and innovation across countries for Singapore) of Prof. Dr. Michael Frese
 
