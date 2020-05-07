@@ -1,8 +1,3 @@
 
 
-Design by Tim O'Brien [t413.com](http://t413.com/)
-&mdash;
-[SinglePaged theme](https://github.com/t413/SinglePaged)
-&mdash;
-this site is [open source]({{ site.source_link }})
-
+Designed by Dr. Sylvia Hubner and Dr. Tobias Benz &mdash; Based on Tim O'Brien's [SinglePaged theme](https://github.com/t413/SinglePaged)
