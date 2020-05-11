@@ -92,6 +92,12 @@ img {
   float: left;
 }
 
+.research {
+  z-index: 100;
+  width: 500px;
+  text-align: center;
+  float: center;
+}
 
 .pics {
   z-index: 100;
