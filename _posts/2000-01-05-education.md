@@ -1,5 +1,5 @@
 ﻿---
-title: "experience"
+title: "Résumé"
 bg: orange
 color: black
 fa-icon: university
@@ -8,13 +8,13 @@ fa-icon: university
 ## Degrees
 
 <img alt="TUK" src="./img/Tu_kaiserslautern.svg" class="logos"> 01/2017 Doctoral degree: Dr. rer. pol.
-University of Kaiserslautern (TUK); dissertation title: How entrepreneurs develop and influence their employees; supervisor: Prof. Dr. Matthias Baum
+University of Kaiserslautern (TUK); dissertation title: How entrepreneurs develop and influence their employees; awarded by the Haaß-foundation; supervisor: Prof. Dr. Matthias Baum
 
 <img alt="LMU" src="./img/LMU Logo.png" class="logos"> 08/2013 Studies in Human Resource Education & Management, Ludwig-Maximilians-University (LMU), Munich
 
 <br/> <br/> 
 
-## Academic Affiliations
+## Academic Positions
 
 <img alt="unibz" src="./img/unibz.png" class="logos"> <br/> starting 09/2020	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) <br/> <br/> <br/>
 
