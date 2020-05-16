@@ -86,11 +86,21 @@ img {
   left: 0;
   width: 80px;
   margin-left: 0;
-  margin-right: 10px;
   margin-bottom: 20px;
   border-radius: 0%;
   text-align: center;
   float: left;
+}
+
+.p-research p{
+  overflow: hidden;
+}
+.p-research div{
+  clear: left;
+}
+
+.p-research h2{
+  clear: left;
 }
 
 .pics {
