@@ -2,7 +2,7 @@
 title: "Résumé"
 bg: orange
 color: black
-fa-icon: university
+fa-icon: graduation-cap 
 ---
 
 ## Degrees

@@ -87,16 +87,10 @@ img {
   width: 80px;
   margin-left: 0;
   margin-right: 10px;
+  margin-bottom: 20px;
   border-radius: 0%;
   text-align: center;
   float: left;
-}
-
-.research {
-  z-index: 100;
-  width: 500px;
-  text-align: center;
-  float: center;
 }
 
 .pics {
