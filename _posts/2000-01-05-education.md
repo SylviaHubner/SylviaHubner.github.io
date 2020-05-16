@@ -11,8 +11,7 @@ fa-icon: graduation-cap
 <img alt="TUK" src="./img/Tu_kaiserslautern.svg" class="logos"> 
 </div>
 
-01/2017 Doctoral degree: Dr. rer. pol.
-University of Kaiserslautern (TUK); dissertation title: How entrepreneurs develop and influence their employees; awarded by the Haaß-foundation; supervisor: Prof. Dr. Matthias Baum
+01/2017 Doctoral degree: Dr. rer. pol., University of Kaiserslautern (TUK); dissertation title: How entrepreneurs develop and influence their employees; awarded by the Haaß-foundation; supervisor: Prof. Dr. Matthias Baum
 
 <div>
 <img alt="LMU" src="./img/LMU Logo.png" class="logos"> 
@@ -27,7 +26,7 @@ University of Kaiserslautern (TUK); dissertation title: How entrepreneurs develo
 <img alt="unibz" src="./img/unibz.png" class="logos"> 
 </div> 
 
-starting 09/2020	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) 
+<br/> starting 09/2020	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) 
 
 <div>
 <img alt="NUS" src="./img/NUS Logo.png" class="logos"> 
