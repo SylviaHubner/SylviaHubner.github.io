@@ -103,6 +103,17 @@ img {
   clear: left;
 }
 
+.p-education p{
+  overflow: hidden;
+}
+.p-education div{
+  clear: left;
+}
+
+.p-education h2{
+  clear: left;
+}
+
 .pics {
   z-index: 100;
   left: 0;

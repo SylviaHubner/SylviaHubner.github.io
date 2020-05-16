@@ -7,28 +7,59 @@ fa-icon: graduation-cap
 
 ## Degrees
 
-<img alt="TUK" src="./img/Tu_kaiserslautern.svg" class="logos"> 01/2017 Doctoral degree: Dr. rer. pol.
+<div>
+<img alt="TUK" src="./img/Tu_kaiserslautern.svg" class="logos"> 
+</div>
+
+01/2017 Doctoral degree: Dr. rer. pol.
 University of Kaiserslautern (TUK); dissertation title: How entrepreneurs develop and influence their employees; awarded by the Haaß-foundation; supervisor: Prof. Dr. Matthias Baum
 
-<img alt="LMU" src="./img/LMU Logo.png" class="logos"> 08/2013 Studies in Human Resource Education & Management, Ludwig-Maximilians-University (LMU), Munich
+<div>
+<img alt="LMU" src="./img/LMU Logo.png" class="logos"> 
+</div> 
 
-<br/> <br/> 
+08/2013 Studies in Human Resource Education & Management, Ludwig-Maximilians-University (LMU), Munich
+
 
 ## Academic Positions
 
-<img alt="unibz" src="./img/unibz.png" class="logos"> <br/> starting 09/2020	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) <br/> <br/> <br/>
+<div>
+<img alt="unibz" src="./img/unibz.png" class="logos"> 
+</div> 
 
-<img alt="NUS" src="./img/NUS Logo.png" class="logos"> since 07/2019	**Postdoctoral research fellow** – Department of Management & Organisation, National University of Singapore (NUS).
+starting 09/2020	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) 
+
+<div>
+<img alt="NUS" src="./img/NUS Logo.png" class="logos"> 
+</div> 
+
+since 07/2019	**Postdoctoral research fellow** – Department of Management & Organisation, National University of Singapore (NUS).
 Researcher in the [EPICS project](https://bizfaculty.nus.edu.sg/epics/) (Enhancing productivity and innovation across countries for Singapore) of Prof. Dr. Michael Frese/ Prof. Zhaoli Song (PhD)
 
-<img alt="TUM" src="./img/TUM.svg" class="logos"> 02/2017 – 06/2019	**Post-doc and project leader** - Chair of Research and Science Management, Technical University of Munich (TUM).
-Leader of the BMBF funded research project [‘FührMINT: Success Factors for Women in Academic STEM Fields’](https://www.rm.wi.tum.de/fuehrmint/projekt-fuehrmint/); chair: Prof. Dr. Claudia Peus <br/><br/>
+<div>
+<img alt="TUM" src="./img/TUM.svg" class="logos"> 
+</div> 
 
-<img alt="TUK" src="./img/Tu_kaiserslautern.svg" class="logos"> 09/2013 – 01/2017	**PhD student and research associate** - Chair of Entrepreneurship, University of Kaiserslautern (TUK).
-Research and teaching at the intersection of entrepreneurship and leadership; chair: Prof. Dr. Matthias Baum <br/> 
+02/2017 – 06/2019	**Post-doc and project leader** - Chair of Research and Science Management, Technical University of Munich (TUM).
+Leader of the BMBF funded research project [‘FührMINT: Success Factors for Women in Academic STEM Fields’](https://www.rm.wi.tum.de/fuehrmint/projekt-fuehrmint/); chair: Prof. Dr. Claudia Peus 
 
-<img alt="NUS" src="./img/NUS Logo.png" class="logos"> 09/2015 – 01/2016	**Visiting researcher** - Department of Management & Organisation, National University of Singapore (NUS).
-Research stay invited by Prof. Dr. Michael Frese <br/> <br/> 
+<div>
+<img alt="TUK" src="./img/Tu_kaiserslautern.svg" class="logos"> 
+</div> 
 
-<img alt="LMU" src="./img/LMU Logo.png" class="logos"> 01/2012 – 10/2012	**Student research and teaching assistant** - Department for Human Resource Education & Management, LMU Munich
+09/2013 – 01/2017	**PhD student and research associate** - Chair of Entrepreneurship, University of Kaiserslautern (TUK).
+Research and teaching at the intersection of entrepreneurship and leadership; chair: Prof. Dr. Matthias Baum 
+
+<div>
+<img alt="NUS" src="./img/NUS Logo.png" class="logos"> 
+</div> 
+
+09/2015 – 01/2016	**Visiting researcher** - Department of Management & Organisation, National University of Singapore (NUS).
+Research stay invited by Prof. Dr. Michael Frese 
+
+<div>
+<img alt="LMU" src="./img/LMU Logo.png" class="logos"> 
+</div> 
+
+01/2012 – 10/2012	**Student research and teaching assistant** - Department for Human Resource Education & Management, LMU Munich
 
