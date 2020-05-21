@@ -17,7 +17,7 @@ fa-icon: id-card
 <img alt="LMU" src="./img/LMU Logo.png" class="logos"> 
 </div> 
 
-08/2013 Studies in Human Resource Education & Management, Ludwig-Maximilians-University (LMU), Munich
+08/2013 Studies (diplom) in Human Resource Education & Management, Ludwig-Maximilians-University (LMU), Munich
 
 
 ## Academic Positions
