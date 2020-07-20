@@ -40,7 +40,7 @@ Researcher in the [EPICS project](https://bizfaculty.nus.edu.sg/epics/) (Enhanci
 </div> 
 
 02/2017 – 06/2019	**Post-doc and project leader** - Chair of Research and Science Management, Technical University of Munich (TUM).
-Leader of the BMBF funded research project [‘FührMINT: Success Factors for Women in Academic STEM Fields’](https://www.rm.wi.tum.de/fuehrmint/projekt-fuehrmint/); chair: Prof. Dr. Claudia Peus 
+Leader of the BMBF funded research project [‘FührMINT: Success Factors for Women in Academic STEM Fields’](https://www.professors.wi.tum.de/rm/fuehrmint/); chair: Prof. Dr. Claudia Peus 
 
 <div>
 <img alt="TUK" src="./img/Tu_kaiserslautern.svg" class="logos"> 
