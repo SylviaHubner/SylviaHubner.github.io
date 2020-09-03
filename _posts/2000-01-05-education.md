@@ -26,13 +26,13 @@ fa-icon: id-card
 <img alt="unibz" src="./img/unibz.png" class="logos"> 
 </div> 
 
-<br/> starting 09/2020	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) 
+<br/> since 09/2020	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) 
 
 <div>
 <img alt="NUS" src="./img/NUS Logo.png" class="logos"> 
 </div> 
 
-since 07/2019	**Postdoctoral research fellow** – Department of Management & Organisation, National University of Singapore (NUS).
+07/2019	– 08/2020 **Postdoctoral research fellow** – Department of Management & Organisation, National University of Singapore (NUS).
 Researcher in the [EPICS project](https://bizfaculty.nus.edu.sg/epics/) (Enhancing productivity and innovation across countries for Singapore) of Prof. Dr. Michael Frese/ Prof. Zhaoli Song (PhD)
 
 <div>
