@@ -10,6 +10,23 @@ window.cookieconsent.initialise({
     }
   },
   "position": "bottom-left",
-  "type": "opt-out"
+  "type": "opt-in"
 });
+</script>
+
+<script>
+onInitialise: function (status) {
+    var type = this.options.type;
+    var didConsent = this.hasConsented();
+    if (type == 'opt-in' && didConsent) {
+       {% include ga.js %}
+    }
+    },
+    onStatusChange: function(status, chosenBefore) {
+    var type = this.options.type;
+    var didConsent = this.hasConsented();
+    if (type == 'opt-in' && didConsent) {
+       {% include ga.js %}
+    }
+    }
 </script>
