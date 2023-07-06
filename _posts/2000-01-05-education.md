@@ -20,13 +20,19 @@ fa-icon: id-card
 08/2013 Studies (diplom) in Human Resource Education & Management, Ludwig-Maximilians-University (LMU), Munich
 
 
-## Academic Positions
+## Academic Affiliations
+
+<div>
+<img alt="unibz" src="./img/LogoUPB.png" class="logos"> 
+</div> 
+
+<br/> since 07/2023	**Jun.-Professor of international management** – Faculty of Business Administration and Economics, Paderborn University (UPB) 
 
 <div>
 <img alt="unibz" src="./img/unibz.png" class="logos"> 
 </div> 
 
-<br/> since 09/2020	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) 
+<br/> 09/2020 - 06/2023	**Assistant professor of management** – Faculty of Economics and Management, Free University of Bozen-Bolzano (unibz) 
 
 <div>
 <img alt="NUS" src="./img/NUS Logo.png" class="logos"> 
